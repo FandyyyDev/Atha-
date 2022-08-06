@@ -416,11 +416,29 @@ exports.othermenu = (prefix) => {
 exports.donasi = () => {
   return`Jika Ingin Melakukan Donasi Diharapkan Untuk Melakukan Scan Qr Code Diatas
 
-Rental Bot WhatsApp :
-📆 10k/Minggu
-📆 20k/Bulan
-📆 100k/Tahun
-🍒 Permanen? Buat Bot Sendiri
+⫍   ‣ sewa bot  ⫎
+                       
+via e-wallet
+
+  . 1 minggu 5k  
+  .  1 bulan 15k
+  .  2 bulan 20k
+  .  3 bulan 30k
+  .  Permanen 1 gc 35k
+
+via pulsa Xl
+. 1 minggu 7k
+.  1 bulan 18k
+.  2 bulan 23k
+. 3 bulan 35k
+. Permanen 1 gc 40k
+→↻ada harga ada kualitas.
+
+☆★ jika ingin sewa silahkan chat owner!
+
+note ꧇ jangan payment sebelum disuruh! jika ingin bertanya seputar bot silahkan dan langsung tudep tanpa basa basi.
+ㅤpayment :
+Dana , spay , gopay , qris , pulsa
 `
 }
 
