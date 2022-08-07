@@ -12,7 +12,7 @@ const chalk = require('chalk')
 global.zenzkey = '06d483bbc651' //Register Atau Beli Di zenzapis.xyz
 
 //===> SESUAIKAN DENGAN KEBUTUHAN MU
-global.ownerNumber = ['6285697900711'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
+global.ownerNumber = ['6285697900711','6285697900711'] //Ganti Jadi Nomer mu Biar Fitur Ownernya Bisa Dipake
 global.Rowner = '6285697900711' //Owner Utama
 global.ownerName = 'Athando' //Ganti Jadi Namamu
 global.packname = 'Athabotz' //Ganti Jadi Nama Botmu
